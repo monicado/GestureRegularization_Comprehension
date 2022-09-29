@@ -1,0 +1,13 @@
+ItemNumb,group,ItemID,TrainingOrder,AdjType,ConditionID,DominantOrder,ActionVidFilename,GestureVidFilename
+1,L5,Paintbrush,VAN,Size,NounVerb,NounFirst,Action_Paintbrush.mp4,Gesture_Paintbrush_VAN.mp4
+2,L5,Paintbrush,ANV,Size,NounVerb,NounFirst,Action_Paintbrush.mp4,Gesture_Paintbrush_ANV.mp4
+3,L5,Paintbrush,ANV,Size,NounVerb,NounFirst,Action_Paintbrush.mp4,Gesture_Paintbrush_ANV.mp4
+4,L5,Paintbrush,ANV,Size,NounVerb,NounFirst,Action_Paintbrush.mp4,Gesture_Paintbrush_ANV.mp4
+5,L5,Headband,ANV,Texture,NounVerb,NounFirst,Action_Headband.mp4,Gesture_Headband_ANV.mp4
+6,L5,Headband,ANV,Texture,NounVerb,NounFirst,Action_Headband.mp4,Gesture_Headband_ANV.mp4
+7,L5,Headband,VAN,Texture,NounVerb,NounFirst,Action_Headband.mp4,Gesture_Headband_VAN.mp4
+8,L5,Headband,ANV,Texture,NounVerb,NounFirst,Action_Headband.mp4,Gesture_Headband_ANV.mp4
+9,L5,Lollipop,ANV,Shape,NounVerb,NounFirst,Action_Lollipop.mp4,Gesture_Lollipop_ANV.mp4
+10,L5,Lollipop,ANV,Shape,NounVerb,NounFirst,Action_Lollipop.mp4,Gesture_Lollipop_ANV.mp4
+11,L5,Lollipop,VAN,Shape,NounVerb,NounFirst,Action_Lollipop.mp4,Gesture_Lollipop_VAN.mp4
+12,L5,Lollipop,ANV,Shape,NounVerb,NounFirst,Action_Lollipop.mp4,Gesture_Lollipop_ANV.mp4
